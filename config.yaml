@@ -261,9 +261,6 @@ programming, debugging, and testing code.
         featured:
           name: knowMore
           link: https://github.com/anirudh-pundir/learning_platform
-        # badges:
-        #   - "Django"
-        #   - "Bootstrap"
         links:
           - icon: fab fa-github
             url: https://github.com/anirudh-pundir
@@ -274,10 +271,6 @@ programming, debugging, and testing code.
         featured:
           name: Musico
           link: https://github.com/anirudh-pundir/Music-Store-Page
-        # badges:
-        #   - "Hugo"
-        #   - "Bootstrap"
-        #   - "Javascript"
         links:
           - icon: fab fa-github
             url: https://github.com/anirudh-pundir
@@ -290,7 +283,6 @@ programming, debugging, and testing code.
     btnName: Mail me
 
   footer:
-    # recentPosts: false
     socialNetworks:
       github: https://github.com/anirudh-pundir
       linkedin:  https://www.linkedin.com/in/anirudh-pundir/
